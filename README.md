@@ -65,7 +65,7 @@ Aqui estão algumas das tecnologias que utilizo nos meus projetos:
 
 ### 📫 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI">
+  <a href="https://www.linkedin.com/in/eduardo-jesus-dal-pizzol-343785380/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:edupizzol16@gmail.com">
