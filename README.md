@@ -42,6 +42,7 @@ Aqui estão algumas das tecnologias que utilizo nos meus projetos:
           Um jogo de xadrez com frontend e cadastro de jogadores.
         </p>
         <p align="center">
+          <br>
           <a href="https://github.com/Edupizzol/ChessGame">Ver repositório ↗️</a>
         </p>
       </td>
