@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo! 👋
+# Olá, eu sou o Eduardo! 
 
 Sou estudante do 2º semestre de Engenharia de Software na Universidade de Brasília. Minha paixão é unir lógica e criatividade para desenvolver soluções eficientes. Atualmente, foco na criação de projetos robustos utilizando principalmente **Java** e **Python**, explorando tecnologias modernas como **Spring Boot** e **Flask**, além de uma forte base em modelagem e gerenciamento de **Bancos de Dados**.
 Também sou entusiasta da área de **Lógica de Programação** e praticante de **Programação Competitiva**, onde utilizo **C** e **C++** para resolver problemas complexos e otimizar algoritmos.
